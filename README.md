@@ -1,4 +1,4 @@
-![](https://github.com/user/background.png) 
+![](https://github.com/mxkay/mxkay/blob/main/%20background.png) 
 - 👋 Hi, I’m @mxkay
 - 👀 I’m interested in #ai, #ml, #drones, #deeplearning, #art, #painting, #outdoors
 - 🌱 I’m currently learning ... dnn/ml refresher
